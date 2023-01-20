@@ -1,0 +1,1 @@
+I'm interested in learning more Go, so I decided to follow along with a little series put together by Aurelie Vache. This installment covers creating a REST API in Go using swagger, task and obviously Go. The article is linked [here](https://dev.to/aurelievache/learning-go-by-examples-part-2-create-an-http-rest-api-server-in-go-1cdm).
